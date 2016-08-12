@@ -1,5 +1,5 @@
 /**
- * @flow
+ * @noflow
  */
 
 import { BackAndroid } from 'react-native';

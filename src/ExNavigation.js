@@ -1,5 +1,5 @@
 /**
- * @flow
+ * @noflow
  */
 
 export { default as NavigationProvider } from './ExNavigationProvider';

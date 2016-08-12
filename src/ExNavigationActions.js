@@ -1,5 +1,5 @@
 /**
- * @flow
+ * @noflow
  */
 
 import ActionTypes from './ExNavigationActionTypes';
